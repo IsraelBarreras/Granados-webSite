@@ -3,6 +3,7 @@ body {
     margin: 0;
     background: #FAFAFA;
     justify-content: center;
+    overflow-x: hidden;
 }
 
 .verticalLine{
@@ -127,6 +128,7 @@ h2 {
 }
 
 .service {
+    width: 1000px;
     background: white;
     border: 1px solid gray;
     border-radius: 10px;
