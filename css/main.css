@@ -253,3 +253,8 @@ h2 {
     height: inherit;
     flex-wrap: inherit;
 }
+
+.global-container{
+    width: 1200px;
+    margin: 0 auto;
+}
